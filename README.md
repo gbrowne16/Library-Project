@@ -1,5 +1,6 @@
 # NobelPrizeWinnerLibrary
-
+The library contains functions to use on a data set of Nobel Prize winners
+#
 ##### Returns the motivation of a winner given either their last or first name, or both
 ###### @param prizeWinner {string}=a first, last, or full name of a winner
 ###### @return {string} = the motivation of prizeWinner
